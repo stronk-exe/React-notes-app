@@ -7,7 +7,7 @@ let notes = [
     },
     {
         "id": 2,
-        "body": "Bob from bar down the \n\n- Take out trash\n- Eat food",
+        "body": "Bob from down the \n\n- Take out trash\n- Eat food",
         "updated": "2021-07-13T20:43:18.550058Z",
         "created": "2021-07-13T00:17:13.289897Z"
     },
